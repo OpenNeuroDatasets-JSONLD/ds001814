@@ -2,7 +2,8 @@
     "Name": "eNeuro Aversion-Reward Conflict fMRI Analysis",
     "License": "Copyright (c) 2019 MGH Division of Neurotherapeutics",
     "Authors": [
-        "Samuel Zorowitz"
+        "Samuel Zorowitz",
+        "Alexander P Rockhill"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
