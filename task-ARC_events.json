@@ -15,7 +15,7 @@
     "Levels": {
       "1": "Low risk (10% likelihood of shock)",
       "2": "Medium risk (50% likelihood of shock)",
-      "3": "High risk (90% likelihood of shock)",
+      "3": "High risk (90% likelihood of shock)"
     }
   },
   "TimeType": {
@@ -47,7 +47,7 @@
   },
   "ITI": {
     "Description": "Intertrial interval (corresponds to fixation cross before onset of trial)",
-    "Units": "seconds",
+    "Units": "seconds"
   },
   "Offset": {
     "Description": "Whether trial begins halfway through fMRI acquisition (i.e. half-TR)",
