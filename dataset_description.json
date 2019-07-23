@@ -18,6 +18,6 @@
         "This research was sponsored by the U.S. Army Research Office and Defense Advanced Research Projects Agency under Cooperative Agreement Number W911NF-14-2-0045. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the funding sources. Cluster computing resources made possible by Instrumentation Grants 1S10RR023401, 1S10RR019307, and 1S10RR023043. DAP was partially supported by R37 MH068376 and R01 MH101521. KKE was partially supported by NIH National Institute of Neurological Disorders and Stroke (NINDS) Training Program in Recovery and Restoration of CNS Health and Function (T32 NS100663-01)."
     ],
     "ReferencesAndLinks": [],
-    "DatasetDOI": "10.18112/openneuro.ds001814.v1.0.5",
+    "DatasetDOI": "10.18112/openneuro.ds001814.v1.0.6",
     "BIDSVersion": "1.0.0"
 }
